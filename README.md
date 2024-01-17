@@ -19,5 +19,6 @@
 I liked Lex & Yacc, ANTLR is a successor.
 So ANTLR it is.
 
-## First experiment
-Make a slang for Ash: [ashx](https://github.com/kech-app/ashx)
+## First experiments
+Make a slang for Janus: [Janux](https://github.com/kech-app)
+Make a slang for Ash Resource Attributes: [ashx](https://github.com/kech-app/ashx)
