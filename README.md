@@ -16,7 +16,7 @@
 **Eclipse Modeling Framework (EMF)**: Good if you're into model-driven development and enjoy working with models and graphical editors.
 
 ## First paint strokes
-I liked Lex & Yacc, ANTLR is a successor.
+I liked Lex & Yacc elegance, ANTLR is a successor.
 So ANTLR it is.
 
 ## First experiments
