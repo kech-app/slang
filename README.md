@@ -20,5 +20,6 @@ I liked Lex & Yacc, ANTLR is a successor.
 So ANTLR it is.
 
 ## First experiments
-Make a slang for Janus: [Janux](https://github.com/kech-app)
-Make a slang for Ash Resource Attributes: [ashx](https://github.com/kech-app/ashx)
+- Make a slang for Janus Fields and Widgets: [Janus](https://github.com/kech-app)
+- Make a slang for Ash Resource Attributes: [ashx](https://github.com/kech-app/ashx)
+- Make generators for Elixir and Typescript
