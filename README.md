@@ -1,3 +1,3 @@
-# Slang: Designing and Toying with DSLs. Targeting Elixir and Typescript. Kids and Adults.
+# Slang: Designing and Toying with DSLs. Targeting Elixir and Typescript
 
 
