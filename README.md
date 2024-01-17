@@ -18,3 +18,6 @@
 ## First paint strokes
 I liked Lex & Yacc, ANTLR is a successor.
 So ANTLR it is.
+
+## First experiment
+Make a slang for Ash: [ashx](https://github.com/kech-app/ashx)
